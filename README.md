@@ -4,4 +4,4 @@
 
 ![Profile views](https://gpvc.arturio.dev/niambaust17)
 
-⭐️ From [Niam Md. Affan](https://github.com/niambaust17)
+From [Niam Md. Affan](https://github.com/niambaust17)
