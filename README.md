@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-[Profile views](https://github.com/niambaust17/niambaust17)
+[Profile views](https://github.com/niambaust17)
