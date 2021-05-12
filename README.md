@@ -22,7 +22,6 @@
 <a src="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a>
 <a src="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
 
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=niambaust17&show_icons=true)
 
 ![Profile views](https://gpvc.arturio.dev/niambaust17)
