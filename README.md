@@ -22,10 +22,9 @@
 <a src="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a>
 <a src="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
 
-<a src="https://xenodochial-raman-e4f950.netlify.app">
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=niambaust17&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000" />
 <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niambaust17&hide=html&hide_title=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000" />
-</a>
+
 
 ![Profile views](https://gpvc.arturio.dev/niambaust17)
 
