@@ -27,5 +27,6 @@
 
 
 ![Profile views](https://gpvc.arturio.dev/niambaust17)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=niambaust17.niambaust17)
 
 From [Niam Md. Affan](https://github.com/niambaust17)
