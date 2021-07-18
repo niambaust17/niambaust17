@@ -1,12 +1,6 @@
-### Hi there, 👋
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-### I'm NIAM MD. AFFAN
-
-[📧](niambaust17@gmail.com)
-
-> Curious Web Developer
-
-#### 📍 Currently base at: Paharpur, Dinajpur
+I´m Niam Md. Affan, a curious web developer in Bangladesh
 
 #### 💻 Currently working on:
 
