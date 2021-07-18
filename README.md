@@ -29,8 +29,6 @@
 ![Profile views](https://gpvc.arturio.dev/niambaust17)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=niambaust17.niambaust17)
 
-From [Niam Md. Affan](https://github.com/niambaust17)
-
 ## 🔍  Where to find me
 <p>
 <a target="_blank" href="https://xenodochial-raman-e4f950.netlify.app"><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a>	
