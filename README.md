@@ -21,7 +21,7 @@
 <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
 <a src="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a>
 <a src="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
-
+## ⚡ GitHub Status
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=niambaust17&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox" />
 <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niambaust17&hide=html&hide_title=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&theme=gruvbox" />
 
