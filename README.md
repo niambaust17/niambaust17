@@ -1,6 +1,6 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-I´m Niam Md. Affan, a curious web developer in Bangladesh
+My name is Niam Md. Affan. I am a curious web developer living near Dinajpur, Bangladesh.
 
 #### 💻 Currently working on:
 
