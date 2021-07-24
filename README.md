@@ -46,16 +46,16 @@ My name is Niam Md. Affan. I am a curious web developer living near Dinajpur, Ba
   <summary><b>Interested In Learning</b></summary>
   <br/>
   <p>
-    <img alt="Python" src="https://img.shields.io/badge/PYTHON-3776AB.svg?&style=for-the-badge&logo=python" />
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?&style=for-the-badge&logo=php" />
+    <img alt="Python" src="https://img.shields.io/badge/PYTHON-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" />
     <img alt="Angular" src="https://img.shields.io/badge/ANGULAR-DD0031.svg?&style=for-the-badge&logo=angular" />
-    <img alt="LINUX" src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge-square&logo=linux" />
+    <img alt="LINUX" src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=white" />
     <img alt="MVC Architecture" src="https://img.shields.io/badge/MVC-888888.svg?&style=for-the-badge" />
     <img alt="TDD" src="https://img.shields.io/badge/TEST%20DD-E34F26.svg?&style=for-the-badge&logo=tdd" />
     <img alt="SCRUM" src="https://img.shields.io/badge/SCRUM-6DB33F.svg?&style=for-the-badge&logo=ddd" />
     <img alt="AWS" src="https://img.shields.io/badge/AMAZON%20AWS-232F3E.svg?&style=for-the-badge&logo=amazon-aws" />
-    <img alt="MySQL" src="https://img.shields.io/badge/MARIADB-4479A1.svg?&style=for-the-badge&logo=mariadb" />
-    <img alt="Postgre SQL" src="https://img.shields.io/badge/POSTGRES-%23316192.svg?&style=for-the-badge&logo=postgresql" />
+    <img alt="MySQL" src="https://img.shields.io/badge/MARIADB-4479A1.svg?&style=for-the-badge&logo=mysql" />
+    <img alt="Postgre SQL" src="https://img.shields.io/badge/POSTGRES-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
     <img alt="SQLite" src="https://img.shields.io/badge/SQLITE-003B57.svg?&style=for-the-badge&logo=sqlite" />
     <img alt="Docker" src="https://img.shields.io/badge/Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
     <img alt="Google Cloud Platform" src="https://img.shields.io/badge/Google_Cloud_Platform-1a73e8?style=for-the-badge&logo=google-cloud&logoColor=white" />
