@@ -26,6 +26,9 @@ My name is Niam Md. Affan. I am a curious web developer living near Dinajpur, Ba
     <img alt="Git" src="https://img.shields.io/badge/GIT-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" />
     <img alt="Github" src="https://img.shields.io/badge/GITHUB-%23121011.svg?&style=for-the-badge&logo=github" />
     <img alt="VSCode" src="https://img.shields.io/badge/VSCODE-007ACC.svg?&style=for-the-badge&logo=visual-studio-code" />
+    <img alt="Netlify" src="https://img.shields.io/badge/NETLIFY-%23F05033.svg?&style=for-the-badge&logo=netlify" />
+    <img alt="Heroku" src="https://img.shields.io/badge/HEROKU-%23F05033.svg?&style=for-the-badge&logo=heroku" />
+    <img alt="Chrome Dev Tool" src="https://img.shields.io/badge/CHROME%20DEV%20TOOL-%23F05033.svg?&style=for-the-badge&logo=chrome%20dev%20tool" />
   <p/>
 </details>
 
