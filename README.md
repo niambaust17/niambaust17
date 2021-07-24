@@ -51,7 +51,7 @@ My name is Niam Md. Affan. I am a curious web developer living near Dinajpur, Ba
     <img alt="Angular" src="https://img.shields.io/badge/ANGULAR-DD0031.svg?&style=for-the-badge&logo=angular" />
     <img alt="LINUX" src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=white" />
     <img alt="AWS" src="https://img.shields.io/badge/AMAZON%20AWS-232F3E.svg?&style=for-the-badge&logo=amazon-aws" />
-    <img alt="MySQL" src="https://img.shields.io/badge/MY%20SQL-4479A1.svg?&style=for-the-badge&logo=mysql" />
+    <img alt="MySQL" src="https://img.shields.io/badge/MY%20SQL-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
     <img alt="Postgre SQL" src="https://img.shields.io/badge/POSTGRES-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
     <img alt="SQLite" src="https://img.shields.io/badge/SQLITE-003B57.svg?&style=for-the-badge&logo=sqlite" />
     <img alt="Docker" src="https://img.shields.io/badge/Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
