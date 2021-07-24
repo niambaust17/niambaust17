@@ -30,4 +30,7 @@ My name is Niam Md. Affan. I am a curious web developer living near Dinajpur, Ba
 <a target="_blank" href="https://medium.com/@niamaffan"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
 </p>
 
-![Profile views](https://gpvc.arturio.dev/niambaust17)
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=niambaust17&style=plastic&label=Views"><img>
+<img src="https://badges.pufler.dev/visits/niambaust17/niambaust17?color=black&logo=github" />
+</p>
