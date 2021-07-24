@@ -25,20 +25,28 @@ My name is Niam Md. Affan. I am a curious web developer living near Dinajpur, Ba
 
 ## 🔍  Where to find me
 <p>
-<a target="_blank" href="https://xenodochial-raman-e4f950.netlify.app"><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a>	
-<a target="_blank" href="https://www.linkedin.com/in/niam-md-affan-61aa92144/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="https://medium.com/@niamaffan"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
+
 </p>
 
 
 <details>
-  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
+  <summary><b>GitHub Statistics</b></summary>
   <br/>
     <p align="center">
-        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=brunotacca&hide_border=true&theme=nightowl" />
+        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=niambaust17&hide_border=true&theme=nightowl" />
     </p>
     <p align="center">
         <img height="137px" src="https://github-readme-stats.vercel.app/api?username=niambaust17&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niambaust17&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
+    </p>
+</details>
+
+<details>
+  <summary><b>Where Find Me</b></summary>
+  <br/>
+    <p align="center">
+        <a target="_blank" href="https://xenodochial-raman-e4f950.netlify.app"><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a>	
+        <a target="_blank" href="https://www.linkedin.com/in/niam-md-affan-61aa92144/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+        <a target="_blank" href="https://medium.com/@niamaffan"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
     </p>
 </details>
 
