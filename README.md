@@ -6,7 +6,7 @@ My name is Niam Md. Affan. I am a curious web developer living near Dinajpur, Ba
   <summary><b>Technologies & Tools</b></summary>
   <br/>
   <p>
-    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=html5" />
+    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
     <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3" />
     <img alt="Bootstrap" src="https://img.shields.io/badge/BOOTSTRAP-%23F05033.svg?&style=for-the-badge&logo=bootstrap" />
     <img alt="Tailwind CSS" src="https://img.shields.io/badge/TAILWIND%20CSS-%23F05033.svg?&style=for-the-badge&logo=tailwind%20css" />
