@@ -2,6 +2,9 @@
 
 My name is Niam Md. Affan. I am a curious web developer living near Dinajpur, Bangladesh.
 
+<hr/>
+<br/>
+
 <details>
   <summary><b>Technologies & Tools</b></summary>
   <br/>
