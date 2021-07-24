@@ -6,9 +6,12 @@ My name is Niam Md. Affan. I am a curious web developer living near Dinajpur, Ba
   <summary><b>Technologies & Tools</b></summary>
   <br/>
   <p>
- <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white" /> 
-    <p/>
+    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=html5" />
+    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3" />
+    <img alt="Bootstrap" src="https://img.shields.io/badge/BOOTSTRAP-%23F05033.svg?&style=for-the-badge&logo=bootstrap" />
+    <img alt="Tailwind CSS" src="https://img.shields.io/badge/TAILWIND%20CSS-%23F05033.svg?&style=for-the-badge&logo=tailwind%20css" />
+    <img alt="JavaScript" src="https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=for-the-badge&logo=javascript" />
+  <p/>
 </details>
 
 <details>
