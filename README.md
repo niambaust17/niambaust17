@@ -21,25 +21,45 @@ My name is Niam Md. Affan. I am a curious web developer living near Dinajpur, Ba
     <img alt="NodeJS" src="https://img.shields.io/badge/NODEJS-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
     <img alt="ExpressJS" src="https://img.shields.io/badge/EXPRESSJS-%23F05033.svg?&style=for-the-badge&logo=express.js" />
     <img alt="MongoDB" src="https://img.shields.io/badge/MONGODB-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
-    <img alt="GraphQL" src="https://img.shields.io/badge/GRAPHQL-E10098.svg?&style=for-the-badge&logo=graphql&logoColor=white" />
-    <img alt="SASS" src="https://img.shields.io/badge/SASS-CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />
+    <img alt="NPM" src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm" />
     <img alt="Git" src="https://img.shields.io/badge/GIT-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" />
     <img alt="Github" src="https://img.shields.io/badge/GITHUB-%23121011.svg?&style=for-the-badge&logo=github" />
     <img alt="VSCode" src="https://img.shields.io/badge/VSCODE-007ACC.svg?&style=for-the-badge&logo=visual-studio-code" />
     <img alt="Netlify" src="https://img.shields.io/badge/NETLIFY-%23F05033.svg?&style=for-the-badge&logo=netlify" />
     <img alt="Heroku" src="https://img.shields.io/badge/HEROKU-%23F05033.svg?&style=for-the-badge&logo=heroku" />
     <img alt="Chrome Dev Tool" src="https://img.shields.io/badge/CHROME%20DEV%20TOOL-%23F05033.svg?&style=for-the-badge&logo=chrome%20dev%20tool" />
-  <p/>
+  </p>
 </details>
 
 <details>
   <summary><b>Currently Learning</b></summary>
   <br/>
+  <p>
+    <img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-E0234E.svg?&style=for-the-badge&logo=mongoose" />
+    <img alt="GraphQL" src="https://img.shields.io/badge/GRAPHQL-E10098.svg?&style=for-the-badge&logo=graphql&logoColor=white" />
+    <img alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white" />
+    <img alt="SASS" src="https://img.shields.io/badge/SASS-CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />
+  </p>
 </details>
 
 <details>
   <summary><b>Interested In Learning</b></summary>
   <br/>
+  <p>
+    <img alt="Python" src="https://img.shields.io/badge/PYTHON-3776AB.svg?&style=for-the-badge&logo=python" />
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?&style=for-the-badge&logo=php" />
+    <img alt="Angular" src="https://img.shields.io/badge/ANGULAR-DD0031.svg?&style=for-the-badge&logo=angular" />
+    <img alt="LINUX" src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge-square&logo=linux" />
+    <img alt="MVC Architecture" src="https://img.shields.io/badge/MVC-888888.svg?&style=for-the-badge" />
+    <img alt="TDD" src="https://img.shields.io/badge/TEST%20DD-E34F26.svg?&style=for-the-badge&logo=tdd" />
+    <img alt="SCRUM" src="https://img.shields.io/badge/SCRUM-6DB33F.svg?&style=for-the-badge&logo=ddd" />
+    <img alt="AWS" src="https://img.shields.io/badge/AMAZON%20AWS-232F3E.svg?&style=for-the-badge&logo=amazon-aws" />
+    <img alt="MySQL" src="https://img.shields.io/badge/MARIADB-4479A1.svg?&style=for-the-badge&logo=mariadb" />
+    <img alt="Postgre SQL" src="https://img.shields.io/badge/POSTGRES-%23316192.svg?&style=for-the-badge&logo=postgresql" />
+    <img alt="SQLite" src="https://img.shields.io/badge/SQLITE-003B57.svg?&style=for-the-badge&logo=sqlite" />
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
+    <img alt="Google Cloud Platform" src="https://img.shields.io/badge/Google_Cloud_Platform-1a73e8?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  </p>
 </details>
 
 <details>
