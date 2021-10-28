@@ -60,8 +60,8 @@ My name is Niam Md. Affan. I am a curious web developer living near Dinajpur, Ba
   <summary><b>GitHub Statistics</b></summary>
   <br/>
       <p>
-      <img width="100%" height="200px" src="https://github-readme-streak-stats.herokuapp.com?user=niambaust17&theme=gruvbox&hide_border=true" /> 
-      <img width="100%" height="200px" src="https://activity-graph.herokuapp.com/graph?username=niambaust17&theme=github" />
+      <img height="200px" src="https://github-readme-streak-stats.herokuapp.com?user=niambaust17&theme=gruvbox&hide_border=true" /> 
+      <img width="100vw" height="200px" src="https://activity-graph.herokuapp.com/graph?username=niambaust17&theme=github" />
       </p>
       <p>
       <img width="100%" height="200px" src="https://github-readme-stats.vercel.app/api?username=niambaust17&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=gruvbox" /> 
