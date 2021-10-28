@@ -69,7 +69,7 @@ My name is Niam Md. Affan. I am a curious web developer living near Dinajpur, Ba
       </p>
   <summary><b>Where Find Me</b></summary>
   <br/>
-    <p align="center">
+    <p>
         <a target="_blank" href="https://xenodochial-raman-e4f950.netlify.app"><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a>	
         <a target="_blank" href="https://www.linkedin.com/in/niam-md-affan-61aa92144/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
         <a target="_blank" href="https://medium.com/@niamaffan"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img</a>
