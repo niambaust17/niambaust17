@@ -3,8 +3,6 @@
 My name is Niam Md. Affan. I am a curious web developer living near Dinajpur, Bangladesh.
 
 <hr/>
-
-<details>
   <summary><b>Technologies & Tools</b></summary>
   <br/>
   <p>
@@ -31,9 +29,7 @@ My name is Niam Md. Affan. I am a curious web developer living near Dinajpur, Ba
     <img alt="Heroku" src="https://img.shields.io/badge/HEROKU-%23F05033.svg?&style=for-the-badge&logo=heroku" />
     <img alt="Chrome Dev Tool" src="https://img.shields.io/badge/CHROME%20DEV%20TOOL-%23F05033.svg?&style=for-the-badge&logo=chrome%20dev%20tool" />
   </p>
-</details>
 
-<details>
   <summary><b>Currently Learning</b></summary>
   <br/>
   <p>
@@ -42,9 +38,7 @@ My name is Niam Md. Affan. I am a curious web developer living near Dinajpur, Ba
     <img alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white" />
     <img alt="SASS" src="https://img.shields.io/badge/SASS-CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />
   </p>
-</details>
 
-<details>
   <summary><b>Interested In Learning</b></summary>
   <br/>
   <p>
@@ -62,9 +56,7 @@ My name is Niam Md. Affan. I am a curious web developer living near Dinajpur, Ba
     <img alt="TDD" src="https://img.shields.io/badge/TEST%20DD-E34F26.svg?&style=for-the-badge&logo=tdd" />
     <img alt="SCRUM" src="https://img.shields.io/badge/SCRUM-6DB33F.svg?&style=for-the-badge&logo=ddd" />
   </p>
-</details>
 
-<details>
   <summary><b>GitHub Statistics</b></summary>
   <br/>
     <p align="center">
@@ -73,9 +65,7 @@ My name is Niam Md. Affan. I am a curious web developer living near Dinajpur, Ba
     <p align="center">
         <img height="137px" src="https://github-readme-stats.vercel.app/api?username=niambaust17&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=gruvbox" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niambaust17&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=gruvbox" />
     </p>
-</details>
 
-<details>
   <summary><b>Where Find Me</b></summary>
   <br/>
     <p align="center">
@@ -83,7 +73,6 @@ My name is Niam Md. Affan. I am a curious web developer living near Dinajpur, Ba
         <a target="_blank" href="https://www.linkedin.com/in/niam-md-affan-61aa92144/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
         <a target="_blank" href="https://medium.com/@niamaffan"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img</a>
     </p>
-</details>
 
 <hr/>
 <br/>
