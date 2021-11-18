@@ -7,7 +7,7 @@
 - 🥅 2020 Goals: Learn React, Node, GraphQL, NextJs, Jest
 - ⚡ Fun fact: I love to Travel and Watching Movies
 
-  <summary><b>Technologies & Tools</b></summary>
+<summary><b>Technologies & Tools</b></summary>
   <br/>
   <p>
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
@@ -34,7 +34,7 @@
     <img alt="Chrome Dev Tool" src="https://img.shields.io/badge/CHROME%20DEV%20TOOL-%23F05033.svg?&style=for-the-badge&logo=chrome%20dev%20tool" />
   </p>
 
-  <summary><b>Currently Learning</b></summary>
+<summary><b>Currently Learning</b></summary>
   <br/>
   <p>
     <img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-E0234E.svg?&style=for-the-badge&logo=mongoose" />
@@ -43,7 +43,7 @@
     <img alt="SASS" src="https://img.shields.io/badge/SASS-CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />
   </p>
 
-  <summary><b>Interested In Learning</b></summary>
+<summary><b>Interested In Learning</b></summary>
   <br/>
   <p>
     <img alt="Python" src="https://img.shields.io/badge/PYTHON-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
@@ -61,7 +61,7 @@
     <img alt="SCRUM" src="https://img.shields.io/badge/SCRUM-6DB33F.svg?&style=for-the-badge&logo=ddd" />
   </p>
 
-  <summary><b>GitHub Statistics</b></summary>
+<summary><b>GitHub Statistics</b></summary>
   <br/>
       <p>
       <img width="550px" src="https://github-readme-streak-stats.herokuapp.com?user=niambaust17&theme=gruvbox&hide_border=true" /> 
@@ -71,7 +71,7 @@
       <img width="550px" alt="Niam Md. Affan Github Stats" src="https://github-readme-stats.vercel.app/api?username=niambaust17&show_icons=true&theme=gruvbox" />
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niambaust17&card_width=550&theme=gruvbox" />
       </p>
-  <summary><b>Where Find Me</b></summary>
+<summary><b>Where Find Me</b></summary>
   <br/>
     <p>
         <a target="_blank" href="https://xenodochial-raman-e4f950.netlify.app"><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a>	
