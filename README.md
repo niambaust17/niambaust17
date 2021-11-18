@@ -1,8 +1,12 @@
-## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### Hi there, I'm Niam Md. Affan - [Niam's Portfolio](https://xenodochial-raman-e4f950.netlify.app/ "Niam's Portfolio") 👋
 
-My name is Niam Md. Affan. I am a curious web developer living near Dinajpur, Bangladesh.
+## I'm a 🔥🔥 JavaScript Enthusiast, New Teach Explorer, MERN Stack Developer 🔥🔥
 
-<hr/>
+- 🔭 I’m currently working on MERN stack Web Development !
+- 🌱 I’m currently learning everything 🤣
+- 🥅 2020 Goals: Learn React, Node, GraphQL, NextJs, Jest
+- ⚡ Fun fact: I love to Travel and Watching Movies
+
   <summary><b>Technologies & Tools</b></summary>
   <br/>
   <p>
