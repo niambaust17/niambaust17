@@ -1,4 +1,4 @@
-### Hi there, I'm Niam Md. Affan - [Niam's Portfolio](https://xenodochial-raman-e4f950.netlify.app/ "Niam's Portfolio") 👋
+### Hi there, I'm Niam Md. Affan - [Niam's Portfolio](https://niam-portfolio.netlify.app/ "Niam's Portfolio") 👋
 
 ## I'm a 🔥🔥 JavaScript Enthusiast, New Teach Explorer, MERN Stack Developer 🔥🔥
 
@@ -13,7 +13,7 @@
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
     <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3" />
     <img alt="Bootstrap" src="https://img.shields.io/badge/BOOTSTRAP-%23F05033.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" />
-    <img alt="Tailwind CSS" src="https://img.shields.io/badge/TAILWIND%20CSS-%23F05033.svg?&style=for-the-badge&logo=tailwind%20css" />
+<!--     <img alt="Tailwind CSS" src="https://img.shields.io/badge/TAILWIND%20CSS-%23F05033.svg?&style=for-the-badge&logo=tailwind%20css" /> -->
     <img alt="JavaScript" src="https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=for-the-badge&logo=javascript" />
     <img alt="REST API" src="https://img.shields.io/badge/REST%20API-02569B.svg?&style=for-the-badge&logo=rest&logoColor=white" />
     <img alt="React" src="https://img.shields.io/badge/REACT-%23007ACC.svg?&style=for-the-badge&logo=react" />
@@ -39,8 +39,8 @@
   <p>
     <img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-E0234E.svg?&style=for-the-badge&logo=mongoose" />
     <img alt="GraphQL" src="https://img.shields.io/badge/GRAPHQL-E10098.svg?&style=for-the-badge&logo=graphql&logoColor=white" />
-    <img alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white" />
-    <img alt="SASS" src="https://img.shields.io/badge/SASS-CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />
+<!--     <img alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white" /> -->
+<!--     <img alt="SASS" src="https://img.shields.io/badge/SASS-CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white" /> -->
   </p>
 
 <summary><b>Interested In Learning</b></summary>
